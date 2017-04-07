@@ -9,7 +9,7 @@ Pre-Requisites to run sample Selenium Cucumber project.
 3. TestNG plugin should be installed in Eclipse.
 4. Cucumber plugin should be installed in Eclipse.
 
-Please refer 'Installation Documents' folder for further information
+Please refer 'Installation Documents' folder for more information.
 
 Steps to import Project into Eclipse Workspace:
 
